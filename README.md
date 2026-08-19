@@ -25,6 +25,7 @@ This repo consist of all the leetCode done by me
 | [0047-permutations-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/krishnashaw42/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/krishnashaw42/Leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnashaw42/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/krishnashaw42/Leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@ This repo consist of all the leetCode done by me
 | [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/krishnashaw42/Leetcode/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |

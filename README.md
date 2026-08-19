@@ -28,6 +28,7 @@ This repo consist of all the leetCode done by me
 | [0053-maximum-subarray](https://github.com/krishnashaw42/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/krishnashaw42/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/krishnashaw42/Leetcode/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ This repo consist of all the leetCode done by me
 | [0015-3sum](https://github.com/krishnashaw42/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krishnashaw42/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/krishnashaw42/Leetcode/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,4 +177,8 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/krishnashaw42/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

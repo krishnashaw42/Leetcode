@@ -54,6 +54,7 @@ This repo consist of all the leetCode done by me
 | [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/krishnashaw42/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/krishnashaw42/Leetcode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |

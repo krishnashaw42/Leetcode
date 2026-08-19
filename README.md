@@ -58,6 +58,7 @@ This repo consist of all the leetCode done by me
 | [0038-count-and-say](https://github.com/krishnashaw42/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/krishnashaw42/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/krishnashaw42/Leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +111,7 @@ This repo consist of all the leetCode done by me
 | [0050-powx-n](https://github.com/krishnashaw42/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/krishnashaw42/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/krishnashaw42/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/krishnashaw42/Leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -189,8 +191,13 @@ This repo consist of all the leetCode done by me
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/krishnashaw42/Leetcode/tree/master/0067-add-binary) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/krishnashaw42/Leetcode/tree/master/0056-merge-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krishnashaw42/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

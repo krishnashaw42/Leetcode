@@ -35,6 +35,7 @@ This repo consist of all the leetCode done by me
 | [0066-plus-one](https://github.com/krishnashaw42/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/krishnashaw42/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repo consist of all the leetCode done by me
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnashaw42/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnashaw42/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishnashaw42/Leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

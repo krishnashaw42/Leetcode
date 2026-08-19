@@ -32,6 +32,7 @@ This repo consist of all the leetCode done by me
 | [0057-insert-interval](https://github.com/krishnashaw42/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/krishnashaw42/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ This repo consist of all the leetCode done by me
 | [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/krishnashaw42/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/krishnashaw42/Leetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/krishnashaw42/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |

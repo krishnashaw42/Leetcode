@@ -33,6 +33,7 @@ This repo consist of all the leetCode done by me
 | [0013-roman-to-integer](https://github.com/krishnashaw42/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishnashaw42/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnashaw42/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repo consist of all the leetCode done by me
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnashaw42/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -105,4 +107,12 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnashaw42/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

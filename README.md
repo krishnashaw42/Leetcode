@@ -16,6 +16,7 @@ This repo consist of all the leetCode done by me
 | [0031-next-permutation](https://github.com/krishnashaw42/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnashaw42/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishnashaw42/Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ This repo consist of all the leetCode done by me
 | [0012-integer-to-roman](https://github.com/krishnashaw42/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishnashaw42/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishnashaw42/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishnashaw42/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
 ## String Matching
 |  |
 | ------- |
@@ -119,4 +122,16 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

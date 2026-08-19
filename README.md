@@ -43,6 +43,7 @@ This repo consist of all the leetCode done by me
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnashaw42/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/krishnashaw42/Leetcode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repo consist of all the leetCode done by me
 | [0005-longest-palindromic-substring](https://github.com/krishnashaw42/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -89,10 +91,12 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnashaw42/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
 ## Sorting
 |  |
 | ------- |

@@ -38,6 +38,7 @@ This repo consist of all the leetCode done by me
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishnashaw42/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnashaw42/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/krishnashaw42/Leetcode/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |

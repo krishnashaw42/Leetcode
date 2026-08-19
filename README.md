@@ -26,6 +26,7 @@ This repo consist of all the leetCode done by me
 | [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/krishnashaw42/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/krishnashaw42/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ This repo consist of all the leetCode done by me
 | ------- |
 | [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -166,4 +168,8 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

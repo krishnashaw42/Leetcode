@@ -29,6 +29,7 @@ This repo consist of all the leetCode done by me
 | [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/krishnashaw42/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/krishnashaw42/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/krishnashaw42/Leetcode/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
 | ------- |

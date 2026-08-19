@@ -20,6 +20,7 @@ This repo consist of all the leetCode done by me
 | [0039-combination-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/krishnashaw42/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ This repo consist of all the leetCode done by me
 | [0010-regular-expression-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0045-jump-game-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -97,6 +99,7 @@ This repo consist of all the leetCode done by me
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnashaw42/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |

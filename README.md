@@ -33,6 +33,7 @@ This repo consist of all the leetCode done by me
 | [0059-spiral-matrix-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/krishnashaw42/Leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/krishnashaw42/Leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repo consist of all the leetCode done by me
 | [0067-add-binary](https://github.com/krishnashaw42/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/krishnashaw42/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/krishnashaw42/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/krishnashaw42/Leetcode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@ This repo consist of all the leetCode done by me
 | [0047-permutations-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/krishnashaw42/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/krishnashaw42/Leetcode/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -182,6 +185,7 @@ This repo consist of all the leetCode done by me
 | [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/krishnashaw42/Leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -210,4 +214,8 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishnashaw42/Leetcode/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/krishnashaw42/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

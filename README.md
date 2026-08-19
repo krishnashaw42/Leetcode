@@ -42,4 +42,8 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishnashaw42/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/krishnashaw42/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

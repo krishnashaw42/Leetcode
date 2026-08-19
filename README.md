@@ -31,6 +31,7 @@ This repo consist of all the leetCode done by me
 | [0056-merge-intervals](https://github.com/krishnashaw42/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/krishnashaw42/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ This repo consist of all the leetCode done by me
 | [0045-jump-game-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/krishnashaw42/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishnashaw42/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -169,6 +171,7 @@ This repo consist of all the leetCode done by me
 | [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/krishnashaw42/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Algorithm X
 |  |
 | ------- |

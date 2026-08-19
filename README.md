@@ -23,6 +23,7 @@ This repo consist of all the leetCode done by me
 | [0045-jump-game-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/krishnashaw42/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krishnashaw42/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ This repo consist of all the leetCode done by me
 | [0009-palindrome-number](https://github.com/krishnashaw42/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/krishnashaw42/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishnashaw42/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -145,6 +147,7 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/krishnashaw42/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
 ## Algorithm X
 |  |
 | ------- |

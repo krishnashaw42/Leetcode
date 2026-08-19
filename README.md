@@ -105,12 +105,14 @@ This repo consist of all the leetCode done by me
 | [0013-roman-to-integer](https://github.com/krishnashaw42/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/krishnashaw42/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/krishnashaw42/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/krishnashaw42/Leetcode/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/krishnashaw42/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/krishnashaw42/Leetcode/tree/master/0060-permutation-sequence) |
 ## Greedy
 |  |
 | ------- |

@@ -7,6 +7,7 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishnashaw42/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,12 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnashaw42/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishnashaw42/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/krishnashaw42/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

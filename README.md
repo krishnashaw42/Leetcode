@@ -14,6 +14,7 @@ This repo consist of all the leetCode done by me
 | ------- |
 | [0001-two-sum](https://github.com/krishnashaw42/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnashaw42/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/krishnashaw42/Leetcode/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ This repo consist of all the leetCode done by me
 | [0005-longest-palindromic-substring](https://github.com/krishnashaw42/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/krishnashaw42/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/krishnashaw42/Leetcode/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +54,7 @@ This repo consist of all the leetCode done by me
 | ------- |
 | [0007-reverse-integer](https://github.com/krishnashaw42/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krishnashaw42/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/krishnashaw42/Leetcode/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |

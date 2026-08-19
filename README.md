@@ -10,6 +10,7 @@ This repo consist of all the leetCode done by me
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnashaw42/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/krishnashaw42/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/krishnashaw42/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/krishnashaw42/Leetcode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repo consist of all the leetCode done by me
 | [0005-longest-palindromic-substring](https://github.com/krishnashaw42/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/krishnashaw42/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/krishnashaw42/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/krishnashaw42/Leetcode/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +76,7 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0015-3sum](https://github.com/krishnashaw42/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/krishnashaw42/Leetcode/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |

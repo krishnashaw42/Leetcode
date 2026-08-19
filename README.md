@@ -59,6 +59,7 @@ This repo consist of all the leetCode done by me
 | [0044-wildcard-matching](https://github.com/krishnashaw42/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/krishnashaw42/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/krishnashaw42/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/krishnashaw42/Leetcode/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +167,7 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krishnashaw42/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/krishnashaw42/Leetcode/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |

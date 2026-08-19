@@ -47,4 +47,5 @@ This repo consist of all the leetCode done by me
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/krishnashaw42/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/krishnashaw42/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

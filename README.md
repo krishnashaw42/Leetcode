@@ -12,6 +12,7 @@ This repo consist of all the leetCode done by me
 | [0015-3sum](https://github.com/krishnashaw42/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krishnashaw42/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnashaw42/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/krishnashaw42/Leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ This repo consist of all the leetCode done by me
 | [0015-3sum](https://github.com/krishnashaw42/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krishnashaw42/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnashaw42/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/krishnashaw42/Leetcode/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
